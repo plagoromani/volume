@@ -7,7 +7,7 @@
 ##
 ##  Crear zona reversa 
 ##  Crear archivo que tendrá los datos de la reverse zone
-## sudo cp /etc/bind/db.127 /etc/bind/db.192
+## sudo cp /etc/bind/db.127 /etc/bind/db.10
 ##
 ## Para aplicar los cambios de la zona debemos ejecutar sudo systemctl restart bind9.service
 ##
