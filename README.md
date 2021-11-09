@@ -15,7 +15,7 @@
 ##
 ## Para añadir el dns al cliente debemos modificar el resolv.conf del cliente
 ## Para ello añadimos 
-## nameserver  127.0.0.1
+## nameserver  127.0.0.53
 ## search example.com
 ##
 ## Para comprobar que está funcionando, ejecutamos dig -x 127.0.0.1 y nos tendría que devolver 
