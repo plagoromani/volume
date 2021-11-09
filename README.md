@@ -25,6 +25,7 @@
 ## 64 bytes from 10.1.0.10: icmp_seq=1 ttl=64 time=0.800 ms
 ## 64 bytes from 10.1.0.10: icmp_seq=2 ttl=64 time=0.813 ms
 ##
+## named-checkzone example.com /etc/bind/db.example.com Para comprobar la zona
 
 
 
