@@ -9,6 +9,7 @@ $TTL	604800
 			2419200		; Expire
 			 604800 )	; Negative Cache TTL
 ;
-@	IN	NS	localhost.
-@	IN	A	127.0.0.1
-@	IN	AAAA	::1
+@       IN      NS      ns.example.com.
+@       IN      A       10.1.0.10
+@       IN      AAAA    ::1
+ns      IN      A       10.1.0.10
