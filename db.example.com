@@ -13,3 +13,7 @@ $TTL	604800
 @       IN      A       10.1.0.10
 @       IN      AAAA    ::1
 ns      IN      A       10.1.0.10
+		IN		TXT		"nameservers"
+example.net.	IN	CNAME		example.com.
+example.org.	IN	CNAME		example.com.
+				
